@@ -1,6 +1,6 @@
 # wow ladder filter
 
-fügt eine filter funktion zur wow rangliste hinzu, nach klassen.
+fügt eine filter funktion zur wow rangliste hinzu, nach klassen. Sie ist nur optisch, und funktioniert deswegen immer nur auf der aktuellen seite.
 
 funktioniert leider bis jetzt nur für den deutschen client
 

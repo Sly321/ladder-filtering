@@ -14,4 +14,4 @@ durch klicken auf: [script](https://raw.githubusercontent.com/Sly321/ladder-filt
 
 ## beispiel
 
-![tool](images/filtershowcase.png)
+![tool](images/filtershowcase.PNG)
